@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.pdb
+*.cache
+*.dll
+*.exe
+*.xml
+# exclude database schema dumps if large or containing sensitive info, but keeping for now as they seem small
